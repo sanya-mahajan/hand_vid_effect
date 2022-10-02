@@ -15,8 +15,10 @@ a counter is maintained to track the number of fingers raised and accordingly th
 corresponding effect option is chosen.
 
 the options are as follows:
+![guidebox](https://user-images.githubusercontent.com/88281057/193451892-a4b38d34-90ae-45b9-893f-c994edae39ab.png)
 
-![code/guidebox.png]
+
+
 
 the inbuilt functions of openCV are used to apply the filter on the captured 
 frame.
