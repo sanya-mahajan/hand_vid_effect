@@ -21,7 +21,7 @@ the options are as follows:
 
 
 the inbuilt functions of openCV are used to apply the filter on the captured 
-frame.
+frame and the result is seen in real time.
 
 
 
