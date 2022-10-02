@@ -15,7 +15,8 @@ a counter is maintained to track the number of fingers raised and accordingly th
 corresponding effect option is chosen.
 
 the options are as follows:
-![guidebox](https://user-images.githubusercontent.com/88281057/193451892-a4b38d34-90ae-45b9-893f-c994edae39ab.png)
+![guidebox](https://user-images.githubusercontent.com/88281057/193452239-75330265-3333-4a76-af0f-27d25fcaf8b8.png)
+
 
 
 
